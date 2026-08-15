@@ -1,0 +1,6 @@
+{
+  "name": "Aether: Notes & Calendar Hybrid",
+  "description": "Local-first Markdown notes and calendar hybrid with bidirectional linking, Bento grid, and SAF storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
